@@ -2,7 +2,7 @@ import openai
 import gradio as gr
 
     #set API to connect to OpenAI
-openai.api_key = "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"
+openai.api_key = "key"
 
     #set the GF profile 
 age = "22"
